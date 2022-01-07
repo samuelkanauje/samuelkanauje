@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on *** projects (Not thinking yet, currently busy on my own.)
 - 🤞  I love playing Guitar🎸, Piano🎹 and Drum 🥁. Before: Metal-Head 🤘 Now: Cool-Rock-Head 😎
 - 📫 How to reach me ...<br>
- -> You can reach me at samuelkanauje@gmail.com. <br>
- ->SamJe-Technology Systems<br>
+ -> 📧 samuelkanauje@gmail.com. <br>
+ -> 🏨 SamJe-Technology Systems<br>
 
 <!---
 samuelkanauje/samuelkanauje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
